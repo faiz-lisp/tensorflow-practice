@@ -1,0 +1,8 @@
+.vscode
+*.ss
+package.json
+lib/
+*.tar
+*.tar.gz
+*.gz
+*.bin
